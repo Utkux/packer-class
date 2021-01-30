@@ -1,1 +1,1 @@
-# packer-class
+# packer
